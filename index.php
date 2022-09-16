@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-        Sawasdee Daiiji eang
+        Sawasdee Daiiji eang Jam rao dai pao.
     </div>
 </body>
 </html>
