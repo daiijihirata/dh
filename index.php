@@ -14,9 +14,5 @@
     <div>
         Sawasdee Daiiji eang Jam rao dai pao.
     </div>
-    <p style="text-align: center;">
-        test3
-    </p>
 </body>
-
 </html>
