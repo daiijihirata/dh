@@ -7,8 +7,11 @@
     <title> Index DH </title>
 </head>
 <body>
-    <div>
-        Sawasdee Daiiji eang
+    <div style="text-align: center;">
+        Sawasdee Daiiji eang.
     </div>
+    <p style="text-align: center;">
+        Jam dai mai.
+    </p>
 </body>
 </html>
