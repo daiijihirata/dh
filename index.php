@@ -15,7 +15,7 @@
         Sawasdee Daiiji eang Jam rao dai pao.
     </div>
     <p style="text-align: center;">
-        regregergergerger
+        test3
     </p>
 </body>
 
