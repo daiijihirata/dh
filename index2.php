@@ -8,7 +8,7 @@
 </head>
 <body>
     <div style="text-align: center;">
-        Sawasdee Daiiji eang 2 .
-    </div>
+        Sawasdee Daiiji eang 2.
+    </div> 
 </body>
 </html>
